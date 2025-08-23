@@ -26,7 +26,7 @@
 
 ✔️ 🤝 I’m currently learning **Software Development • Microsoft Power Apps • Microsoft Power Automate • Microsoft Azure** .<br>
 
-✔️ 👨‍💻 All of my projects are available at [Profile ](https://github.com/akshaykumar23399) . <br>
+✔️ 👨‍💻 All of my projects are available at [Profile ](https://github.com/akbknight) . <br>
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
@@ -45,29 +45,29 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar23399&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbknight&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/akshaykumar23399/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/akbknight/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=akshaykumar23399)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=akbknight)  
  
  
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar23399&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akbknight&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![akshay's github activity graph](https://activity-graph.herokuapp.com/graph?username=akshaykumar23399&theme=react-dark)](https://github.com/akshaykumar23399/github-readme-activity-graph)
+[![akshay's github activity graph](https://activity-graph.herokuapp.com/graph?username=akbknight&theme=react-dark)](https://github.com/akbknight/github-readme-activity-graph)
 
   
 
@@ -76,7 +76,7 @@
 </p>
 
 
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=akshaykumar23399&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=akbknight&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
 <center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
 
 
