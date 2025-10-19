@@ -10,7 +10,7 @@
 
 ✔️ 🚀 MBA/MS Candidate at American University | Computer Programmer | SharePoint & Power Apps Developer 💼 | U.S. Department of State | AIS InfoSource Alumnus | Web & Cloud Apps (AWS, Automation, Analytics)
 
-✔️ I am **Akshay Kumar**, currently working as Computer Programmer (Cloud Solutions Architect, Microsoft Certified: Azure Administrator ) At U.S. Department of State **IN** . <br>
+✔️ I am **Akshay Kumar**, worked as Computer Programmer (Cloud Solutions Architect, Microsoft Certified: Azure Administrator ) At U.S. Department of State **IN** . <br>
 
 ✔️ I worked as Software Engineer | Backend Developer | Project Lead | Code Optimization Specialist  At AIS **IN** . <br> 
 
