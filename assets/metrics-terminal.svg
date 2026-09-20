@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="100%" height="100%">
+  <defs>
+    <linearGradient id="windowBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0e131f"/>
+      <stop offset="100%" stop-color="#080b12"/>
+    </linearGradient>
+    <linearGradient id="titleBarBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#181f2f"/>
+      <stop offset="100%" stop-color="#121724"/>
+    </linearGradient>
+    <filter id="windowShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <style>
+    .prompt { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', Menlo, Consolas, monospace; font-size: 13px; font-weight: 600; fill: #38bdf8; }
+    .cmd { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', Menlo, Consolas, monospace; font-size: 13px; font-weight: 500; fill: #f1f5f9; }
+    .status-badge { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', Menlo, Consolas, monospace; font-size: 11px; font-weight: 700; fill: #10b981; letter-spacing: 0.05em; }
+    .tag { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', Menlo, Consolas, monospace; font-size: 11px; font-weight: 600; fill: #94a3b8; }
+    .metric { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', Menlo, Consolas, monospace; font-size: 12px; font-weight: 700; }
+    .desc { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; font-size: 12.5px; fill: #cbd5e1; }
+    .gold { fill: #f59e0b; }
+    .cyan { fill: #38bdf8; }
+    .green { fill: #34d399; }
+    .purple { fill: #c084fc; }
+    .rose { fill: #fb7185; }
+    .title-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 500; fill: #94a3b8; }
+  </style>
+
+  <!-- Window Container with Shadow -->
+  <g filter="url(#windowShadow)">
+    <rect x="15" y="15" width="850" height="410" rx="12" fill="url(#windowBg)" stroke="#222b3e" stroke-width="1.2"/>
+    
+    <!-- Title Bar -->
+    <path d="M 15,27 A 12,12 0 0,1 27,15 L 853,15 A 12,12 0 0,1 865,27 L 865,54 L 15,54 Z" fill="url(#titleBarBg)"/>
+    <line x1="15" y1="54" x2="865" y2="54" stroke="#222b3e" stroke-width="1"/>
+
+    <!-- macOS Traffic Light Buttons -->
+    <circle cx="36" cy="34.5" r="5.5" fill="#ff5f56" stroke="#e0443e" stroke-width="0.8"/>
+    <circle cx="54" cy="34.5" r="5.5" fill="#ffbd2e" stroke="#dea123" stroke-width="0.8"/>
+    <circle cx="72" cy="34.5" r="5.5" fill="#27c93f" stroke="#1aab29" stroke-width="0.8"/>
+
+    <!-- Window Title -->
+    <text x="440" y="38" text-anchor="middle" class="title-text">akshay@executive-node: ~/operational-telemetry</text>
+
+    <!-- Shell Prompt & Command -->
+    <text x="36" y="82">
+      <tspan class="prompt">akshay@us-state-dept:~$</tspan>
+      <tspan class="cmd"> ./telemetry --audit=rigorous --status=verified</tspan>
+    </text>
+
+    <text x="36" y="104" class="status-badge">● [AUDIT LOG VERIFIED: U.S. AMBASSADOR COMMENDATION &amp; FINANCIAL PIPELINES]</text>
+
+    <!-- Terminal Separator -->
+    <line x1="36" y1="116" x2="844" y2="116" stroke="#1e293b" stroke-width="1"/>
+
+    <!-- Row 1: Ambassador Commendation -->
+    <g transform="translate(36, 142)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric gold">COMMENDATION</text>
+      <text x="130" y="0" class="metric gold">U.S. Ambassador</text>
+      <text x="280" y="0" class="desc">Formal diplomatic commendation for consular software &amp; workflow systems</text>
+    </g>
+
+    <!-- Row 2: Visa Throughput -->
+    <g transform="translate(36, 172)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric cyan">THROUGHPUT</text>
+      <text x="130" y="0" class="metric cyan">+30.0% Daily</text>
+      <text x="280" y="0" class="desc">Consular visa-request throughput increase via seasonal predictive models</text>
+    </g>
+
+    <!-- Row 3: Complaint Triage -->
+    <g transform="translate(36, 202)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric green">TRIAGE SPEED</text>
+      <text x="130" y="0" class="metric green">-65.0% Latency</text>
+      <text x="280" y="0" class="desc">Consular complaint triage reduction via Power Platform &amp; SharePoint automation</text>
+    </g>
+
+    <!-- Row 4: ACS Reporting -->
+    <g transform="translate(36, 232)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#c084fc" fill-opacity="0.12" stroke="#c084fc" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric purple">ACS CYCLES</text>
+      <text x="130" y="0" class="metric purple">-24.0% Review</text>
+      <text x="280" y="0" class="desc">American Citizen Services automated reporting workflows across Indian posts</text>
+    </g>
+
+    <!-- Row 5: IT Migration -->
+    <g transform="translate(36, 262)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric gold">IT INVENTORY</text>
+      <text x="130" y="0" class="metric gold">99.4% Match</text>
+      <text x="280" y="0" class="desc">$500K+ IT systems &amp; hardware migration tracked across 4 consular locations</text>
+    </g>
+
+    <!-- Row 6: Capital One Delivery -->
+    <g transform="translate(36, 292)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric cyan">CAPITAL ONE</text>
+      <text x="130" y="0" class="metric cyan">12M Records</text>
+      <text x="280" y="0" class="desc">Automated Java court pipelines across 94 federal districts (99.6% accuracy)</text>
+    </g>
+
+    <!-- Row 7: Deceased Records Verification -->
+    <g transform="translate(36, 322)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric green">RISK SCREEN</text>
+      <text x="130" y="0" class="metric green">85M+ Persons</text>
+      <text x="280" y="0" class="desc">High-throughput verification DB screening $350M+ in loan applications</text>
+    </g>
+
+    <!-- Row 8: IRS 990 Spatial Capital Flow -->
+    <g transform="translate(36, 352)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#fb7185" fill-opacity="0.12" stroke="#fb7185" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric rose">IRS 990 MINE</text>
+      <text x="130" y="0" class="metric rose">$550.2B Mapped</text>
+      <text x="280" y="0" class="desc">9.7M+ Form 990 filings mapped with 3D WebGL Globe &amp; real-time choropleth</text>
+    </g>
+
+    <!-- Row 9: COVID-19 K-12 Educational App -->
+    <g transform="translate(36, 382)">
+      <rect x="0" y="-14" width="115" height="20" rx="4" fill="#c084fc" fill-opacity="0.12" stroke="#c084fc" stroke-opacity="0.3" stroke-width="0.8"/>
+      <text x="6" y="0" class="metric purple">COVID CRISIS</text>
+      <text x="130" y="0" class="metric purple">2,000+ Daily</text>
+      <text x="280" y="0" class="desc">3 K-12 schools migrated online via Flutter app (98% student/faculty adoption)</text>
+    </g>
+
+  </g>
+</svg>
