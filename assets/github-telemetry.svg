@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#121724"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 700; fill: #f59e0b; letter-spacing: 0.04em; text-transform: uppercase; }
+    .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11.5px; fill: #94a3b8; font-weight: 500; }
+    .val { font-family: 'JetBrains Mono', 'Cascadia Code', monospace; font-size: 12.5px; font-weight: 700; fill: #f8fafc; }
+    .gold { fill: #f59e0b; }
+    .cyan { fill: #38bdf8; }
+    .green { fill: #34d399; }
+    .purple { fill: #c084fc; }
+  </style>
+
+  <!-- Left Card: Executive Engineering Metrics -->
+  <g filter="url(#cardShadow)">
+    <rect x="10" y="10" width="410" height="190" rx="10" fill="url(#cardGrad)" stroke="#222b3e" stroke-width="1.2"/>
+    <text x="28" y="38" class="title">⚡ GitHub Production Telemetry</text>
+    <line x1="28" y1="48" x2="400" y2="48" stroke="#1e293b" stroke-width="1"/>
+
+    <!-- Stat 1 -->
+    <text x="28" y="76" class="label">Public Repositories</text>
+    <text x="395" y="76" text-anchor="end" class="val cyan">85+ Repos</text>
+
+    <!-- Stat 2 -->
+    <text x="28" y="106" class="label">Annual Public Contributions</text>
+    <text x="395" y="106" text-anchor="end" class="val gold">226+ Contributions</text>
+
+    <!-- Stat 3 -->
+    <text x="28" y="136" class="label">Live Flagship Deployments</text>
+    <text x="395" y="136" text-anchor="end" class="val green">8 Active Systems</text>
+
+    <!-- Stat 4 -->
+    <text x="28" y="166" class="label">Developer Status</text>
+    <text x="395" y="166" text-anchor="end" class="val purple">GitHub Pro · Developer Program</text>
+  </g>
+
+  <!-- Right Card: Core Languages Distribution -->
+  <g filter="url(#cardShadow)">
+    <rect x="430" y="10" width="410" height="190" rx="10" fill="url(#cardGrad)" stroke="#222b3e" stroke-width="1.2"/>
+    <text x="448" y="38" class="title">🛠️ Language &amp; Systems Distribution</text>
+    <line x1="448" y1="48" x2="820" y2="48" stroke="#1e293b" stroke-width="1"/>
+
+    <!-- Bar Progress -->
+    <g transform="translate(448, 62)">
+      <!-- Segmented Bar -->
+      <rect x="0" y="0" width="145" height="8" rx="4" fill="#38bdf8"/>
+      <rect x="148" y="0" width="105" height="8" rx="4" fill="#3178c6"/>
+      <rect x="256" y="0" width="65" height="8" rx="4" fill="#f59e0b"/>
+      <rect x="324" y="0" width="35" height="8" rx="4" fill="#f7df1e"/>
+      <rect x="362" y="0" width="20" height="8" rx="4" fill="#a855f7"/>
+    </g>
+
+    <!-- Legend Row 1 -->
+    <g transform="translate(448, 95)">
+      <circle cx="5" cy="-4" r="4.5" fill="#38bdf8"/>
+      <text x="16" y="0" class="label">Python (Data Science &amp; ETL)</text>
+      <text x="372" y="0" text-anchor="end" class="val cyan">38%</text>
+    </g>
+
+    <!-- Legend Row 2 -->
+    <g transform="translate(448, 122)">
+      <circle cx="5" cy="-4" r="4.5" fill="#3178c6"/>
+      <text x="16" y="0" class="label">TypeScript &amp; React (Next.js)</text>
+      <text x="372" y="0" text-anchor="end" class="val" fill="#60a5fa">28%</text>
+    </g>
+
+    <!-- Legend Row 3 -->
+    <g transform="translate(448, 149)">
+      <circle cx="5" cy="-4" r="4.5" fill="#f59e0b"/>
+      <text x="16" y="0" class="label">Java &amp; SQL (Capital One Pipelines)</text>
+      <text x="372" y="0" text-anchor="end" class="val gold">18%</text>
+    </g>
+
+    <!-- Legend Row 4 -->
+    <g transform="translate(448, 176)">
+      <circle cx="5" cy="-4" r="4.5" fill="#f7df1e"/>
+      <text x="16" y="0" class="label">JavaScript (Three.js WebGL &amp; D3)</text>
+      <text x="372" y="0" text-anchor="end" class="val" fill="#fde047">16%</text>
+    </g>
+  </g>
+</svg>

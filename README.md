@@ -383,23 +383,11 @@
 
 <div align="center">
   <h2>📊 Live GitHub Activity &amp; Telemetry</h2>
-
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr align="center">
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=akbknight&show_icons=true&theme=tokyonight&hide_border=true&title_color=f59e0b&icon_color=38bdf8&text_color=e4e4e7&bg_color=09090b" width="95%" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbknight&theme=tokyonight&hide_border=true&stroke=f59e0b&background=09090b&ring=38bdf8&fire=f59e0b&currStreakLabel=f59e0b" width="95%" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr align="center">
-      <td colspan="2">
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbknight&layout=compact&theme=tokyonight&hide_border=true&title_color=f59e0b&text_color=e4e4e7&bg_color=09090b" width="60%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p><em>Real-time repository statistics, contribution velocity, and language distribution.</em></p>
+  <br/>
+  <a href="https://github.com/akbknight?tab=repositories">
+    <img src="assets/github-telemetry.svg" width="100%" alt="Live GitHub Production Telemetry" />
+  </a>
 </div>
 
 <br/>
