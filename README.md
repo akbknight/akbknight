@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://akbknight.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=F59E0B&center=true&vCenter=true&width=840&lines=STEM+MBA+Candidate+@+American+University+Kogod+'27+(GPA+3.8);Former+Business+Analyst+@+U.S.+Department+of+State+(Ambassador+Commended);Banking+Data+Pipelines+for+Capital+One+@+AIS+Info+(12M+Records);3D+Spatial+Intelligence+Engine+Mapping+$550B%2B+IRS+Charitable+Capital;18-Month+Predictive+Econometric+Forecasting+via+FRED+Time-Series" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=F59E0B&center=true&vCenter=true&width=840&lines=STEM+MBA+Candidate+@+American+University+Kogod+'27+(GPA+3.17);Former+Business+Analyst+@+U.S.+Department+of+State+(Ambassador+Commended);Banking+Data+Pipelines+for+Capital+One+@+AIS+Info+(12M+Records);3D+Spatial+Intelligence+Engine+Mapping+$550B%2B+IRS+Charitable+Capital;18-Month+Predictive+Econometric+Forecasting+via+FRED+Time-Series" alt="Typing SVG" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@
 </div>
 
 <blockquote>
-  <strong>STEM MBA Candidate</strong> at <strong>American University's Kogod School of Business</strong> (Washington, DC · Expected May 2027 · <strong>GPA 3.8/4.0</strong>) with <strong>7+ years of software engineering experience</strong> in data integration, forensic audits, and operational analytics. Built mission-critical decision-support systems for the <strong>U.S. Department of State / U.S. Embassy</strong> (formally commended by the <strong>U.S. Ambassador</strong>) and high-throughput financial data pipelines serving <strong>Capital One</strong>.
+  <strong>STEM MBA Candidate</strong> at <strong>American University's Kogod School of Business</strong> (Washington, DC · Expected May 2027 · <strong>GPA 3.17/4.0</strong>) with <strong>7+ years of software engineering experience</strong> in data integration, forensic audits, and operational analytics. Built mission-critical decision-support systems for the <strong>U.S. Department of State / U.S. Embassy</strong> (formally commended by the <strong>U.S. Ambassador</strong>) and high-throughput financial data pipelines serving <strong>Capital One</strong>.
 </blockquote>
 
 <br/>
@@ -433,7 +433,7 @@
     <td width="50%" valign="top">
       <h4>Master of Business Administration (STEM MBA)</h4>
       <p><strong>American University, Kogod School of Business</strong> · Washington, DC<br/>
-      <em>Expected May 2027</em> · <strong>GPA: 3.8 / 4.0</strong></p>
+      <em>Expected May 2027</em> · <strong>Cumulative GPA: 3.17 / 4.0</strong></p>
       <ul>
         <li><strong>Concentration:</strong> Business Analytics &amp; Artificial Intelligence</li>
         <li><strong>Leadership:</strong> Operations Leader, Analytics Club at AU</li>
