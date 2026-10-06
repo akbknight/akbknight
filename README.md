@@ -342,6 +342,99 @@
           <img src="https://img.shields.io/badge/💻_SOURCE_CODE-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
+  <!-- ROW 5 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Master Resume Engineer (ATS Hardening Engine)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-AST_VALIDATED-10b981?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Invariants-100%25_Pass-38bdf8?style=flat-square" alt="Pass" />
+        <img src="https://img.shields.io/badge/Metric_Density-59.2%25-f59e0b?style=flat-square" alt="Density" />
+      </p>
+      <p>
+        Single-source-of-truth deterministic resume compiler enforcing structural AST invariants, STAR-quantified bullet banks, and automated cliché detection. Replaces synthetic filler with verifiable telemetry across 4 operational variants.
+      </p>
+      <p>
+        <code>Python</code> · <code>AST Invariants</code> · <code>STAR Framework</code> · <code>ReportLab</code> · <code>GitHub Pages</code>
+      </p>
+      <p>
+        <a href="https://akbknight.github.io/master-resume-engineer/">
+          <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_APP-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch App" />
+        </a>
+        <a href="https://github.com/akbknight/master-resume-engineer">
+          <img src="https://img.shields.io/badge/💻_SOURCE_CODE-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ ITEC-617 Digital Transformation Simulation Coach</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-BOARDROOM_SIM-10b981?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Personas-9_Executive_Roles-a855f7?style=flat-square" alt="Personas" />
+        <img src="https://img.shields.io/badge/Criteria-45_Evaluated-38bdf8?style=flat-square" alt="Criteria" />
+      </p>
+      <p>
+        Autonomous multi-agent simulation coach preparing MBA proposals for C-suite boardroom defense. Evaluates proposals across 9 rubric dimensions grounded in 4 years of American University Kogod MBA judge feedback (2021–2024).
+      </p>
+      <p>
+        <code>Claude Code Skills</code> · <code>Copilot Agents</code> · <code>SVG Architecture</code> · <code>Interactive Rubrics</code>
+      </p>
+      <p>
+        <a href="https://akbknight.github.io/ITEC-617-Digital-Transformation-Project/">
+          <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_APP-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch App" />
+        </a>
+        <a href="https://github.com/akbknight/ITEC-617-Digital-Transformation-Project">
+          <img src="https://img.shields.io/badge/💻_SOURCE_CODE-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 6 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📁 Smart File Organizer Agent</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-MOVE--ONLY_SAFETY-10b981?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Engine-Tesseract_OCR-f59e0b?style=flat-square" alt="Engine" />
+        <img src="https://img.shields.io/badge/Integrity-Zero_Deletions-10b981?style=flat-square" alt="Integrity" />
+      </p>
+      <p>
+        Autonomous move-only document organization engine. Features deep OCR text extraction, entity resolution (patient > doctor, applicant > university), and deterministic audit trail logging with zero deletion guarantees.
+      </p>
+      <p>
+        <code>Python</code> · <code>Tesseract OCR</code> · <code>poppler-utils</code> · <code>Deterministic Audit</code>
+      </p>
+      <p>
+        <a href="https://akbknight.github.io/smart-file-organizer/">
+          <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_APP-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch App" />
+        </a>
+        <a href="https://github.com/akbknight/smart-file-organizer">
+          <img src="https://img.shields.io/badge/💻_SOURCE_CODE-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ Tour &amp; Travel Relational Management System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-3NF_SCHEMA-10b981?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Database-MS_SQL_Server-0284c7?style=flat-square" alt="Database" />
+        <img src="https://img.shields.io/badge/Constraints-5_Foreign_Keys-38bdf8?style=flat-square" alt="Constraints" />
+      </p>
+      <p>
+        Enterprise relational schema and PyODBC booking simulation application built with Microsoft SQL Server Management Studio. Star-relational model with interactive vector ER diagram and seed data table explorer.
+      </p>
+      <p>
+        <code>Python</code> · <code>MS SQL Server</code> · <code>pyodbc</code> · <code>Tkinter</code> · <code>SQL Schema</code>
+      </p>
+      <p>
+        <a href="https://akbknight.github.io/System-for-Tour-and-Travel-Management/">
+          <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_APP-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch App" />
+        </a>
+        <a href="https://github.com/akbknight/System-for-Tour-and-Travel-Management">
+          <img src="https://img.shields.io/badge/💻_SOURCE_CODE-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
