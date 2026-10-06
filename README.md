@@ -139,10 +139,10 @@
         <code>Python 3.12</code> · <code>Flask WebUI</code> · <code>ReportLab PDF</code> · <code>openpyxl</code> · <code>ProPublica API</code> · <code>IRS EO BMF</code>
       </p>
       <p>
-        <a href="https://akbknight.github.io/irs990-grant-dashboard/">
+        <a href="https://akbknight.github.io/deborah-research-assistant-audit/">
           <img src="https://img.shields.io/badge/🌐_EXPLORE_FINANCIAL_SYSTEMS-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Intelligence" />
         </a>
-        <a href="https://github.com/akbknight/irs990-grant-dashboard">
+        <a href="https://github.com/akbknight/deborah-research-assistant-audit">
           <img src="https://img.shields.io/badge/💻_SYSTEM_REPOSITORY-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
