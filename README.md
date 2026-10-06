@@ -119,8 +119,38 @@
 
 <div align="center">
   <h2>🚀 Flagship Deployments &amp; Live Interactive Systems</h2>
-  <p><em>High-Performance 2-Column Bento Grid · Click any button to launch the live WebGL/interactive application.</em></p>
+  <p><em>High-Performance Bento Grid · Click any button to launch the live WebGL/interactive application.</em></p>
 </div>
+
+<!-- FEATURED SPOTLIGHT: DEBORAH AUTONOMOUS DEEP-RESEARCH ENGINE -->
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>⚡ Deborah Autonomous Deep-Research Engine (v3.5)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-ENTERPRISE_V3.5-10b981?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Engine-Zero--API_Runtime-38bdf8?style=flat-square" alt="Engine" />
+        <img src="https://img.shields.io/badge/Audit-IRS_990_Financials-f59e0b?style=flat-square" alt="Audit" />
+      </p>
+      <p>
+        Production-grade autonomous organization intelligence engine. Resolves corporate and nonprofit identities, discovers public disclosures, and extracts multi-year audited financial statements from IRS Form 990 XML records without paid APIs or external LLMs. Generates forensic reporting packages (PDF, XLSX, HTML, JSON) with cryptographic loopback WebUI security and bounded egress throttling.
+      </p>
+      <p>
+        <code>Python 3.12</code> · <code>Flask WebUI</code> · <code>ReportLab PDF</code> · <code>openpyxl</code> · <code>ProPublica API</code> · <code>IRS EO BMF</code>
+      </p>
+      <p>
+        <a href="https://akbknight.github.io/irs990-grant-dashboard/">
+          <img src="https://img.shields.io/badge/🌐_EXPLORE_FINANCIAL_SYSTEMS-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Intelligence" />
+        </a>
+        <a href="https://github.com/akbknight/irs990-grant-dashboard">
+          <img src="https://img.shields.io/badge/💻_SYSTEM_REPOSITORY-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <table width="100%">
   <!-- ROW 1 -->
